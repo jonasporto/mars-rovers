@@ -5,7 +5,7 @@ A Simple Mars Rovers navigation implemented in ruby
 Clone repo ```https://github.com/jonasporto/mars-rovers``` and execute ```bundle install``` to install all dependencies.
 
 ## Testing
-execute ```rake tests``` or just ```rake``` to run all test suite
+execute ```rspec``` or ```rake``` to run all test suite
 
 
 ## Usage
